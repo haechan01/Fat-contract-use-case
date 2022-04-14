@@ -1,6 +1,7 @@
 # Phala Network Fat Contract Use Case
 This is a clinical trial data platform that provides a secure, immutable data framework for clinical trial studies using Fat Contract. 
 
+Link to demo: https://www.loom.com/share/f4449d23e81545bcabe1085448cc17b0
 
 
 # Getting Started with Create React App
